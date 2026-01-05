@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# KiCad
+*.bak
+*.kicad_prl
+*-cache.lib
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Build artifacts
+/build/
+*.log
